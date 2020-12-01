@@ -1,46 +1,77 @@
-# Getting Started with Create React App
+<p align="center">
+   <img src="./.github/typeform-clone-logo.svg" alt="Typeform Clone" width="300"/>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">	
+  <a href="https://www.linkedin.com/in/marco-echevestre/">
+      <img alt="Marco Echevestre" src="https://img.shields.io/badge/-Marco Echevestre-7dbb91?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/marcoaminotto/ui-clone-typeform-homepage?color=7dbb91">
+  <img alt="Repository size" src="https://img.shields.io/github/languages/code-size/marcoaminotto/ui-clone-typeform-homepage?color=7dbb91">
+  <a href="https://github.com/marcoaminotto/ui-clone-typeform-homepage/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marcoaminotto/ui-clone-typeform-homepage?color=7dbb91">
+  </a> 
+  <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/marcoaminotto/ui-clone-typeform-homepage/total?logo=GitHub&style=flat&color=7dbb91">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-7dbb91">
+</p>
 
-## Available Scripts
+> :book: [Typeform](https://www.typeform.com/) is a survey software application that helps you create online surveys that are unique and memorable. This project is a UI clone of the homepage animation of Typeform.
 
-In the project directory, you can run:
+# 📐 Layout
 
-### `yarn start`
+## Original
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<div align="center">
+  <img src="./.github/typeform-original.gif" width="600px">
+</div>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Clone
 
-### `yarn test`
+<div align="center">
+  <img src="./.github/typeform-clone.gif" width="600px">
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# :rocket: Technologies
 
-### `yarn build`
+This project was made using the following technologies:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [Typescript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org/)
+- [Styled-components](https://styled-components.com/)
+- [Framer Motion](https://www.framer.com/motion/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# 🔧 How to run
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+# Clone Repository
+$ git clone git@github.com:marcoaminotto/ui-clone-typeform-homepage.git
+```
 
-### `yarn eject`
+### 💻 Run web application
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```bash
+# Go to web folder
+$ cd ui-clone-typeform-homepage/web
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Install Dependencies
+$ yarn install
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Run Aplication
+$ yarn start
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Go to http://localhost:3000/ to see the nice animation.
 
-## Learn More
+# :closed_book: License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Released in 2020 :closed_book: License
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This project is under the [MIT license](./LICENSE).
+
+Give a ⭐️ if this project helped you!
+
+#
+
+<p align="center">
+   <b> &#60;/&#62; by <a href="https://www.linkedin.com/in/marco-echevestre/">Marco Echevestre</a></b>
+</p>
